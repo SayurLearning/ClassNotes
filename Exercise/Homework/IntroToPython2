@@ -1,4 +1,8 @@
-Write a program to calculate average of numbers. Get the numbers from user until user enters 0.
-Write a program to calculate GPA of marks. There are 3 students in the class and they take 3 subjects each. Also calculate the class average mark.
-Take an opinion poll among students. Ask the students whether they like online class (input as 1), in person class (input as 2) or mixed (input as 3). Display the percentage of the female students that like online classes. You can end the poll when someone answers ‘No comment (input as 4)’ or when the poll reaches at least 10 students.
-Write an app for a phone sales man. The Salesman earns Rs10000 every month. He earns Rs1000 commission for every phone he sells. If he sells more than 5 phones a month, he extra Rs100 per phone (1000+100). If he sells 10 phones or more, he gets extra Rs 200 for each phone over 5. He can only earn max 12000 per month. Calculate his monthly salary and avg salary per month in one year. 
+1.Write a program to calculate average of numbers. Get the numbers from user until user enters 0.
+2.Write a program to calculate GPA of marks. There are 3 students in the class and they take 3 subjects each. Also calculate the class average mark.
+3.Take an opinion poll among students. Ask the students whether they like online class (input as 1), in person class (input as 2) or mixed (input as 3). Display the percentage of the female students that like online classes. You can end the poll when someone answers ‘No comment (input as 4)’ or when the poll reaches at least 10 students.
+4.Write an app for a phone sales man. The Salesman earns Rs10000 every month. He earns Rs1000 commission for every phone he sells. If he sells more than 5 phones a month, he extra Rs100 per phone (1000+100). If he sells 10 phones or more, he gets extra Rs 200 for each phone over 5. He can only earn max 12000 per month. Calculate his monthly salary and avg salary per month in one year. 
+5.Write an app to calculate the total bill at the Snack bar. The price of coffee is Rs 100, Vadai (1) is Rs100,
+   Sandwich is Rs 200, Coke Rs 60. If the customer buys more than one sandwich or more than two vadai, the price of coffee is Rs 50. 
+   If the customer buys one of each item, then there is discount of 20% of the total. No further discounts after the 20% discount.
+   If the total price of the bill is more than Rs1000, then also there is a 20% discount.  
