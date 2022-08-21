@@ -1,0 +1,3 @@
+1. In the input, find the first A and last A, print all the letters between these two A.
+2. Input is two strings. Find all the chars that are in both strings. 
+3. Input is a number. Output is the number in English, Eg 134 output OneThreeFour
