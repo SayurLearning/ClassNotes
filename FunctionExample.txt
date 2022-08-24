@@ -10,7 +10,7 @@ Extension of the hw to introduce functions with parameter
     at the every end of the day.
 
  
- Another example
+ Another example 
  Previous Hw
   In the input, find the first A and last A, print all the letters between these two A.
 
