@@ -10,6 +10,7 @@
 5. Input a string. Print first and last char, add a comma, then print second and last but first char and so on.
    eg - input ABCD1234 , output - A4,B3,C2,D1. 
    Hint - use only one for loop. 
-6. Input two strings. Output is both strings merged . Eg - input1 = ABCD, input 2 = 1234. Output = A1B2C3D4
+6. Input two strings. Output is both strings merged . Eg - input1 = ABCD, input 2 = 1234. Output = A1B2C3D4 
+
 
 
