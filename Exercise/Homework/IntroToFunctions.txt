@@ -1,0 +1,25 @@
+
+1. In the input, find the first A and last A, print all the letters between these two A. 
+  If there is no A or 2nd A is not found, find the first B  and last B and print all the letters between these two B. 
+  If there is no B or 2nd B is not found, find the first C and last C and print all the letters between these two C. 
+  Use functions.
+
+
+2.Write an app for the fruit vendor. Fruit vendor has a list of fruits (apple, Orange, banana etc).
+When the customer comes in, vendor asks "What do you want to buy?" .
+The customer can say "I want apple", or "Apple" or "three apple" or something like that.
+Your program will find out what fruit the customer is asking. 
+Then ask the cusomter how many of that fruit s/he wants. Customer can say 'one' or 'I want one' or 'just one' 
+or something like that.
+Print the quantity tha customer asks for.
+Continue asking fruit/quantity of fruit until the customer says 'That's all' or 'No more'.
+You can limit the quantity to single digit number.
+Use functions. Use the same function to get the fruit name and also the quantity.
+
+3. Write an app for the cafe. Calculate the sales for the day. 
+Use a function to calculate each customer sale. Also, Use the function to restock the supply of items if the supply 
+goes down to 20% of the original supply. Print how many times the supply was restocked. 
+Also print the total numbers of items sold.
+(Previous HW had the instructions for running a cafe. You can use that as a starting point)
+
+
