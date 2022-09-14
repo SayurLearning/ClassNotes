@@ -19,7 +19,7 @@ For eg, if input is 5, the randome number function should only generate numbers 
 
 5. Write a function that displays a square box with '*'. Input is the width of the sqaure.
 
-6. Code the game Wordle (text based. Instead of color, use letters - G for green, Y for yellow and G for grey). 
+6. Code the game Wordle (text based. Instead of color, use letters - G for green, Y for yellow and B for grey). 
 https://www.nytimes.com/games/wordle/index.html
 Start with 3 letter word. If user guesses the word correctdly, then 4 letters and then 5 letters. 
 
