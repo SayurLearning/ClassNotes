@@ -22,3 +22,8 @@ For eg, if input is 5, the randome number function should only generate numbers 
 6. Code the game Wordle (text based. Instead of color, use letters - G for green, Y for yellow and G for grey). 
 https://www.nytimes.com/games/wordle/index.html
 Start with 3 letter word. If user guesses the word correctdly, then 4 letters and then 5 letters. 
+
+7. Comeup with your own problem statement and solve it. Choose a problem that you face in real life. 
+simplify it and write the problem statement first. Define what is input and what is output.
+
+All these Hw are due by Sunday 25/9. 
