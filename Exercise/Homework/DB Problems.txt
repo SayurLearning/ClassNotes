@@ -1,0 +1,1 @@
+1.Design a DB to keep the Covid data for India. Write a program to display the info such as most affected state, city, age group, etc.
