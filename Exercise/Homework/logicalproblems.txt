@@ -6,6 +6,12 @@ When the user rolls the dice within 1 col/row of a claimed spot of the other use
 If the spot is same as the claimed spot of the other user, the user that rolled the dice gets a point. 
 The player who gets 5 points first wins the game. 
 
+2. You have a message that you want to send to your friend. You don't want others to see the message. You code the message and send it.
+The alg to code is - split each word in half and reverse it (eg cricket becomes ketccri), if the word ends with a vowel, split at the 
+last letter and reverse (eg cinema becomes acinem), if the word has numbers, spell the number but add A as first and last letters
+ (8 pm becomes AeightA pm ).
+ Write an app that can code and decode the message.
+
 
 
 
