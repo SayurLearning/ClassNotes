@@ -1,0 +1,29 @@
+This list of exercises covers basic data types, input/output , basic arithmetic and if/then else
+Each answer should be in a separate file
+The problem statement should be repeated at the top of the program
+Each line should have a comment
+
+
+Exercise:
+
+Hint - Learn how to get string input (name), integer input (year). How to print string and integer. 
+how to mix intergers and strings in one print statement.
+
+1. Calcualte and print users age - Write a program to ask the user for his/her name and print 'Hello', user's name. 
+Ask what year they were born.  get the year from the user. Print 'You are <age> years old'.
+
+
+2. The user just bought a few things in your  fruit shop. Ask the user what he bought. 
+Cost of one vadai is Rs 30, one soda is Rs20 and one sandwich is Rs 100. Calculate the total cost.
+Ask the user to pay the amount. Receive the amount from the user (get money as input). 
+Print the change amount you have to give to the user.
+
+3. Write a program that will swap two numbers. 
+
+4. Ask the user to input 3 numbers. Ask the user if they want to find the max of these numbers or mininum.
+Find the answer and print.
+
+5. Write a program to calculate the milege. Ask the user how many litres of petrol they have. 
+Ask how many km they have to drive. Calcualte the milege. If the mileage is more than 30km per litre, tell 
+the user they have to fill the tank again.
+
