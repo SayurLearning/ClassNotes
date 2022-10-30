@@ -1,0 +1,17 @@
+This list of exercises covers basic data types, input/output , basic arithmetic and if/then else
+Each answer should be in a separate file
+The problem statement should be repeated at the top of the program
+Each line should have a comment
+
+1. Get the marks for 5 subjects from the student. Calculate the average values. 
+Calcualte if the student got A grade (avg > 90) or B grade (avg > 80) or C grade (avg > 70) or fail.
+
+2.Get the marks for 3 subjects from the students.
+ If the marks is greater than 75 in any two subjects, then print Pass and also print the subject where the marks in > 75
+ If the marks is greater than 60 in all three subjects, then print pass.
+ if the above condition is not met, print fail.
+
+3. We have 3 colleges - each college has a different cut off mark for engineering college admission.
+Get the 5 marks from the student. Calculate the average. Find out which colleges the student is eligible to get admission.
+
+
