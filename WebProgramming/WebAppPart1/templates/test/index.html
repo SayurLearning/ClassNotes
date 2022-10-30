@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Sayur Tech</title>
+        <style>
+            h1 {
+                color:blue;
+                font-family: 'Lucida Sans';
+            }
+            h3 {
+                color:red;
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+        <script>
+            $(document).ready(function(){
+
+                $("#btnClickMe").click(function(e){
+                    var name = $("#txtName").val();
+                    alert('Hello ' + name);
+                });
+
+                $("#btnGreetMe").click(function(e){
+
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Index</h1>
+        <p>This is a sample paragraph.</p>
+        <h1>Contents</h1>
+        <h3>Conclusion</h3>
+        <a href="https://google.com">Google.com</a>
+        <br/>
+        <br></br>
+        <a href="https://gmail.com">My Email</a>
+        <br/>
+        <label>Enter your name</label>
+        <input id="txtName" type="text"></input>
+        <button id="btnClickMe">Click Me</button>
+        <button id="btnGreetMe">Greet Me!!</button>
+    </body>
+</html>
