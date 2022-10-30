@@ -1,0 +1,16 @@
+1. In the input, find the first A and last A, print all the letters between these two A.
+2. Input is two strings. Find all the chars that are in both strings. 
+3. Input is a number. Output is the number in English, Eg 134 output OneThreeFour
+
+#newly added problems
+4. Input a string. 
+    Print all the chars that are in Odd index - eg intput - abcd, output bd
+    Print all the chars in the even index in reverse order - eg input abcd output ca
+    
+5. Input a string. Print first and last char, add a comma, then print second and last but first char and so on.
+   eg - input ABCD1234 , output - A4,B3,C2,D1. 
+   Hint - use only one for loop. 
+6. Input two strings. Output is both strings merged . Eg - input1 = ABCD, input 2 = 1234. Output = A1B2C3D4 
+
+
+

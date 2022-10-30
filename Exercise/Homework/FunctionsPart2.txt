@@ -1,0 +1,29 @@
+Use functions as needed.
+1. Write an app to calculate Grades for students in each subject.
+Mark > 90 is A, > 80 is B, > 70 is C, > 60 is D. anything less than 60 is fail.
+Write a function that returns the grade for one subject for all the students in the class.
+Also, print the class avg grade.
+
+
+2. Calculate the cost of train tickets. Single one way ticket from Madurai to Chennai (or vice versa) is Rs1000. 
+Adding a return ticket will cost Rs750 extra.
+Family of 4 or more gets 20% off. Senior rate is 50% off. 
+
+3.Calculate the cost flight tickets. Single one way ticket from Madurai to Chennai (or vice versa) is Rs 3500 for
+ weekday morning and afternoon flights. Rs 3000 for weekday evening flights. Rs 5000 for weekends. Senior discout is 10%.
+ Tickets bought at least two weeks ahead of time is 20% off.
+ Print the number of weekend tickets sold in a given day.
+
+4. write a function that generates a random number that is always divisible by the input number. 
+For eg, if input is 5, the randome number function should only generate numbers 5,20, 15, 75, etc.
+
+5. Write a function that displays a square box with '*'. Input is the width of the sqaure.
+
+6. Code the game Wordle (text based. Instead of color, use letters - G for green, Y for yellow and B for grey). 
+https://www.nytimes.com/games/wordle/index.html
+Start with 3 letter word. If user guesses the word correctly, then 4 letters and then 5 letters. 
+
+7. Comeup with your own problem statement and solve it. Choose a problem that you face in real life. 
+simplify it and write the problem statement first. Define what is input and what is output.
+
+All these Hw are due by Sunday 25/9. 

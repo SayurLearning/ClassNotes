@@ -13,4 +13,5 @@ else:
     print("you can buy ", amountofonion, "kgs of onion")
     print ("or")
     print("you can buy ", amountoftomato, "kgs of tomato")
+    print("End of results")
     

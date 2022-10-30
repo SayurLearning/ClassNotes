@@ -1,0 +1,8 @@
+1. Google and Find out about 5 different public APIs (in different catagories) and write how they are used by applications.
+    eg - https://shrouded-falls-48764.herokuapp.com/docs/readme.html - 
+        this API returns the details of car. We can use this to see when the car's insurance is expiring.
+2. Write five of your own use cases for what API should be created and how it can be used.
+    eg - API to show which stop the bus is (input is bus number). Students can use it to plan 
+    when to leave home to take that bus.
+3. Learn about JSON. Write the a sample output for the usecases you came up with (in question number 2)
+   in JSON
