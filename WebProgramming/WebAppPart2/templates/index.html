@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <title>Sayur Tech</title>
+        <style>
+            h1 {
+                color:blue;
+                font-family: 'Lucida Sans';
+            }
+            h3 {
+                color:red;
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+        <script>
+            $(document).ready(function(){
+
+                $("#btnClickMe").click(
+
+                    function(e){
+                    var name = $("#txtName").val();
+                    alert('Hello ' + name);
+                }
+                
+                );
+
+                $("#btnGreetMe").click(function(e){
+
+                });
+
+                $("#btnDouble").click(function(e){
+                var num = $("#txtNum").val();
+                var double_url = 'http://127.0.0.1:5000/double/' + num;
+                $.ajax(
+                {
+                    url: double_url,
+                    success: function(data){
+                        $("#lblResult").text(data);
+                    },
+                    error: function(error_msg){
+                        $("#lblResult").text(error_msg.responseText);
+                    }
+                }
+                
+                );
+            });
+
+
+            $("#btnGetEmployee").click(function(e){
+                var emp_url = 'http://127.0.0.1:5000/emp';
+                $.ajax(
+                {
+                    url: emp_url,
+                    success: function(data){
+                        debugger;
+                        var res = data.Name + "'s employee id is " + data.Id;
+                        $("#lblEmployeeInfo").text(res);
+                    },
+                    error: function(error_msg){
+                        debugger;
+                        $("#lblEmployeeInfo").text(error_msg.responseText);
+                    }
+                }                
+                );
+            });
+
+
+            $("#btnGetEmployees").click(function(e){
+                var employees_url = 'http://127.0.0.1:5000/employees';
+                $.ajax(
+                {
+                    url: employees_url,
+                    success: function(employees){
+                        var names = '';
+                        for(var index in employees){
+                            names = names + ', ' + employees[index].Name
+                        }
+                        $("#lblEmployeeInfo").text(names);                        
+                    },
+                    error: function(error_msg){
+                        $("#lblEmployeeInfo").text(error_msg.responseText);
+                    }
+                }                
+                );
+            });
+
+
+            });
+
+            
+
+            
+        </script>
+    </head>
+    <body>
+        <h1>Index</h1>
+        <p>This is a sample paragraph.</p>
+        <h1>Contents</h1>
+        <h3>Conclusion</h3>
+        <a href="https://google.com">Google.com</a>
+        <br/>
+        <br></br>
+        <a href="https://gmail.com">My Email</a>
+        <br/>
+        <label>Enter your name</label>
+        <input id="txtName" type="text"></input>
+        <button id="btnClickMe">Click Me</button>
+        <button id="btnGreetMe">Greet Me!!</button>
+        <br/>
+        <label>Enter a number</label>
+        <input id="txtNum" type="text"></input>
+        <button id="btnDouble">Double it</button>
+        <label id="lblResult"></label>
+
+        <button id="btnGetEmployee">Get an employee</button>
+        <label id="lblEmployeeInfo"></label>
+
+        <button id="btnGetEmployees">Get all employees</button>
+        <label id="lblEmployeeInfo"></label>
+    </body>
+</html>
