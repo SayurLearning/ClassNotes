@@ -1,0 +1,14 @@
+Use For loop to go over a string
+
+1. Get a city name from the user. Find out how many 'a' or 'e' is in the city name
+2. Get a movie name. Find out how many words are in that movie. 
+3. Get a name. Replace all the 'a' with 'c'. Print the name. 
+4. Get two names. If the length of the two names is not equal, add 'a' at the end of the short name
+    until the length is equal. 
+    Eg - input - cat, arrow. (legnth is not equal) 
+    Output - cataa, arrow (length is equal by adding a)
+
+5. Same program as above. Instead of adding 'a' at the end of the short name, add the last letter.
+    Eg - input - cat, arrow. (legnth is not equal) 
+    Output - cattt, arrow (length is equal by adding the last letter of Cat)
+    
