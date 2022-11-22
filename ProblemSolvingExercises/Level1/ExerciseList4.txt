@@ -1,0 +1,9 @@
+1. Generate two random numbers. If both numbers are even, print All even. 
+If both numbers are odd, print No even. Otherwise print Some even. 
+2. Get a word from the user. If the word has any vowels, print Has vowels.
+ Check if the word has Y. Then also print Has vowel. Check for vowel separately and Y separately. 
+Repeat these steps until user gives a word that has Y or X in the word. 
+3.Get a number from the user. Divide it by 3 and print the result. 
+Divide again by 3 and print the result. Keep dividing until the number is less than 3. 
+Print the number of times the number was divided. 
+
