@@ -1,7 +1,16 @@
-Validate user input for username. Conditions - username length should be between 4 and 8, 
+1. Validate user input for username. Conditions - username length should be between 4 and 8, 
 should not start with a number, should not start or end with '_', and only alphabets, numbers
  and '_' is allowed.
  When the user enters an username, you should print all possible errors in the username.
  For eg - if input is 1b%  - the output should be 'Username length should be >4 <8, 
  no numeric at the start and no special chars allowed' 
  
+2. The cafe owner has his cafe's sales data that includes total amount of sales in each day of the week.
+Find out when the sales was high and when it was low.
+
+3. The cafe owner has his cafe's sales data that includes total amount of sales in each day of the month.
+Find out the top 3 days when the sales was high and the 3 days when the sales was low.
+
+4.The cafe owner has his cafe's sales data that includes total amount of sales in each day of the month.
+Find out which week the sales was high and which week it was low.
+
