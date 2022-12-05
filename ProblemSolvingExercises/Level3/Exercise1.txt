@@ -1,1 +1,19 @@
-Exercise for DB 
+Exercise for files
+
+1. The cafe owner has his cafe's sales data in a file. The data is organized by day. It has 
+ total amount of sales, and profit in each day of the month.
+Find out which week the sales was high and which week it was low.
+
+2. Input file is https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;template=results;type=batting
+(take a copy and store it as a csv in your computer). Data is sorted by players with most runs.
+Output is the players name, and the number of runs he has more than the player next to him in the ranking.
+For eg, If player 1 has 15000 runs, the player 2 has 14000 runs, player 3 has 10000 runs. print
+Player1 1000,
+Player 2 4000. 
+
+3.Same input file as above . Print all the players with Highest score and not out.
+
+4.Same input as above. Print all the Indian players who played during the year 2000.
+
+5.Same input as above. Print the number of players from each country.
+
