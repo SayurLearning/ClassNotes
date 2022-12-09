@@ -1,0 +1,13 @@
+1. Calculate the salary for the phone salesman. Base pay is Rs10000. 
+Based on the years of experience of the saleman the basepay increses.
+Rs 2000 will be added for each year of experience.
+For every 10 phones sold, he gets 13% of the base pay as commission.
+
+2. Same as above. For eacy day the salesman doesn't go to work, subtract Rs200 from the total pay.
+
+3. Same as above, but there is a change in the way commission is calculated.
+For the first 10 phones sold, commission is 13%, for the next 10 phones sold, it is 15%, 
+and one percent increse for every 5 phones sold after that. 
+(Hint -  write down the percent of commission for different number of phones sold and 
+understand the problem,  before writing the  program)
+
