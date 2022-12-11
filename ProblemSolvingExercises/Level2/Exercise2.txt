@@ -1,3 +1,5 @@
+Decide what will be input for each of these questions, before starting to write code.
+
 1. Calculate the salary for the phone salesman. Base pay is Rs10000. 
 Based on the years of experience of the saleman the basepay increses.
 Rs 2000 will be added for each year of experience.
