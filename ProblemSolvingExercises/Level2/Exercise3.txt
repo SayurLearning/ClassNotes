@@ -1,0 +1,34 @@
+String manipulation exercises
+
+Decide on the inputs before writing code.
+
+1. Ask the user what he likes for breakfast , lunch and dinner.
+ Print  'user like <input> for breakfast", "user likes <input> for lunch" , etc.
+
+2. Ask the user what he likes for breakfast. Ask the question 5 times (one for each weekday).
+Write one print stmt 'user like <all the inputs, comma separated> for breakfast'. 
+If same breakfast item is mentioned, print it only once.
+
+3. Ask the user what he likes for breakfast. Ask again for dinner. 
+Ask the questions 5 times (one for each weekday).
+Print if the user gave the same input for breakfast and dinner. 
+
+4. Get user input for dinner one day at a time. If the user enters the same meal as before,
+ ask him to enter a different one. Also print all the dinners he had before. 
+ Note : in the example below, see where we use 'and' (Egg, Rice and Milk) when we print.
+ Eg - enter dinner for day 1 
+    Egg
+    Enter dinner for day 2
+    Rice
+    Enter dinner for day 3
+    Egg
+    You already had egg for dinner. You had Egg ane Rice so far. Enter different dinner for day 3.
+    Milk
+    Enter dinner for day 4
+    Rice
+    You already had Rice for dinner. You had Egg, Rice and Milk so far. Enter different dinner for day 4.
+    Dal
+    Enter dinner for day 5
+    Yogurt.
+
+    You had Egg, Rice, Milk,Dal and Yougurt for dinner last week.
