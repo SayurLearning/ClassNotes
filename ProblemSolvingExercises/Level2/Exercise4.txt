@@ -1,0 +1,22 @@
+Using functions.
+1. Write a function to add two numbers. Get user input (2 numbers) and use the function to add the numbers.
+Print the result from the main code.
+Hint - Funtion will take two input parameters and return one value.
+
+2. Write a function that returns if a food is a healthy food or not. 
+ Funtion will take one food item as input. It will return True or false. It will have a list 
+ of healthy foods. Name the function appropriately.
+ From the main code, ask the user about his/her breakfast. Print if it is a healthy breakfast or not.
+
+3. Write a function that returns if a person is a child (age 12 or below), Teen (age 13-19),
+adult (20-65) or senior citizen (above 65). (Function should not do anything more than this)
+Get the user's birthyear as input.
+Based on the user's age group, decide what jobs they can do.
+Hint (have a list of jobs for different age groups).
+
+4.Write a function to add two numbers. Another function to multiply two numbers.
+Get two numbers from user input. If one of the inputs is greater 10, call the addition function.
+If not call the multiplication function with the first number and 3 as input.
+Get the result and call the addtion function with the result and the second input.
+
+
