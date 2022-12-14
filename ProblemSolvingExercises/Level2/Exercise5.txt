@@ -1,0 +1,20 @@
+Do not use any built in functions. Use for/while loops as needed.
+You can hard code an array with 10 or more  elements (numbers or strings as needed)
+ in your code. No need to get input.
+
+1. Find the average of numbers in an array.
+
+
+2. Find the longest and shortest word in an array of words.
+
+3. Find count of words that are atleast two chars longer than the smallest word in an array.
+
+4. Separate all even and odd numbers in one array into two different arrays. 
+    Find the max and min from each array. Do not use any built in functions. 
+
+5. Sort an array with 3 elements in ascending order.
+
+6. Sort and array with 10 elements in descending order. 
+ (hint - you will be using two for loops. First find the largest number,
+  then find the next largest number etc).
+
