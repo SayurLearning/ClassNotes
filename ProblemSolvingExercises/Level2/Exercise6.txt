@@ -1,0 +1,25 @@
+Using Dictionaries - Read about when you would use Array, Lists and Dictionaries.
+https://python.plainenglish.io/arrays-vs-list-vs-dictionaries-47058fa19d4e 
+
+
+1. Write a program for a  vegetable store. 
+Create a dictionary to maintain the food name and price per 100 grams.
+Input from the user will be in the format Food:amount units
+(for eg Tomato:2 Kg 
+or Tomato: 200 gms). User will give many input. When the user input is 'That's it', 
+find the total cost. 
+
+2. Same as above. Add one more property to each food item. It is 'Quantity available'. eg 5 kg
+Update this property every time the sale is made. At the end of each customer sale, print 
+the inventory (the dictionary). You should print in the following format.
+"4.5 kg tomota is available
+ 3 kg Onion is available
+ 300 gms Chilli is available"
+
+ Write your function to do the printing.
+ 
+ 
+
+3. Same as above. You also need list all the sales by customer in a day and  print what is the
+max amount of sale.  
+
