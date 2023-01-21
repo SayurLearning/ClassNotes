@@ -28,13 +28,3 @@ Find the answer and print.
 Ask how many km they have to drive. Calcualte the milege. If the mileage is more than 30km per litre, tell 
 the user they have to fill the tank again.
 
-6. Calcualte and print which standard the student is studying - Write a program to ask the user for his/her name and print 'Hello', user's name. 
-Ask what year they were born.  get the year from the user. 
-Calculate if the user is going to elementary school, middle school, highschool or college.
-(hint - use if/elif)
-
-
-
-
-
-

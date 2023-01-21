@@ -1,0 +1,28 @@
+This list of exercises covers basic data types, input/output , basic arithmetic and if/then else
+Each answer should be in a separate file
+The problem statement should be repeated at the top of the program
+Each line should have a comment
+
+
+6. Calcualte and print which standard the student is studying - Write a program to ask the user for his/her name and print 'Hello', user's name. 
+Ask what year they were born.  get the year from the user. 
+Calculate if the user is going to elementary school, middle school, highschool or college.
+(hint - use if/elif)
+
+7.Program to find out how many Kg of onion or tomato we can buy. One Kg of Onion is 20rs, Tomato is 10.5rs.  Input is the budget. 
+Same as above, but the price of Onion is different based on the city. Chennai - Rs30, Trichy Rs27, Madurai Rs 34. Input is budget and city.
+Same as above, but add 3% of the budget for petrol expenses. 
+
+8.Calculate wedding expenses. Cost for lunch per person is Rs200. Cost for Breakfast per
+ person is half of lunch cost. Cost of the hall is Rs 200 per person.
+  Decoration is 50% of Hall cost. Parking is 10% of the Hall cost. 
+  
+9.Start with the above. The total cost is split equally by bride and groom.
+ Bride has saved Rs50000. Determine if the bride has to take a loan or not. 
+ If loan, how much?
+
+
+
+
+
+

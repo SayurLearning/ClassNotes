@@ -17,4 +17,5 @@ You can hard code an array with 10 or more  elements (numbers or strings as need
 6. Sort and array with 10 elements in descending order. 
  (hint - you will be using two for loops. First find the largest number,
   then find the next largest number etc).
+  
 

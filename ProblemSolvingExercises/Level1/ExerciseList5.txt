@@ -5,6 +5,7 @@ should not start with a number, should not start or end with '_', and only alpha
  For eg - if input is 1b%  - the output should be 'Username length should be >4 <8, 
  no numeric at the start and no special chars allowed' 
  
+
 2. The cafe owner has his cafe's sales data that includes total amount of sales in each day of the week.
 Find out when the sales was high and when it was low.
 

@@ -1,0 +1,8 @@
+1. Calculate the profit. Shop A, buys cake for Rs20 and sells for Rs40. 
+They buy bread for Rs 10 and sell for Rs 15. They pay Rs 100 per employee per day. 
+They have 2 employees. What is the profit or loss Shop A makes in a day?.
+ There will be 10 customers coming per day.
+  (hint : Input is how many bread/Cake each customer buys, use while/for loop)
+
+2. Same as above. Shop A has limited supply of Cake and bread 
+(Hint - supply of Cake/bread should be input, use while stmt for checking the supply)
