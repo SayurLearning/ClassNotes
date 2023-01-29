@@ -16,9 +16,15 @@ dice.If the rolled number is 0, game ends. If the rolled number is even, then 2 
  added. If the number is odd, then if the number is 1,3 then the user has to jump. 
  If the number is 5, then 3 points are added. The game ends when the user has 50 points.
 
+3. You are going to a movie with a friend. You want to watch a particular movie which runs
+in only one theatre. There are 3 theatre near your house. You find the theatre and buy the 
+tickets. When you go to buy the pop corn, sometimes the sales person says 'come and collect
+your change after the movie'. You start watching the movie. You know that if the movie is not good, 
+your will want to leave the movie immediately. You go home after the movie.
+
  
 
-3.Spiderman wants to go from Madurai to Chennai. As you all know, he can jump from a tall 
+4.Spiderman wants to go from Madurai to Chennai. As you all know, he can jump from a tall 
 building to another tall building. He likes to post a picture of the building he is jumping 
 to on Instagram every time he jumps. He needs to make sure he has enough energy to jump 
 before every jump. He drinks coffee to get more energy.
