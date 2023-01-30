@@ -1,0 +1,10 @@
+1. Your input is an array of integers. 
+All the elements except for one element is repeated in that array. Only one element is unique.
+Find  and print that element. Sample input - (A, b, C ,d, b, c,b, d). answer is A.
+
+2. Input is an encrypted  string where there will be chars followed by number. The way to decrypt is 
+to repeat the chars, by the number of times. Print the decrypted word and its length.
+ eg - ac2bd3 means acacbdbdbd. 
+
+3.
+

@@ -1,14 +1,14 @@
 
 
 1. This is a game for two users. Each user takes turn rolling the dice. 
-Dice values can be 0 to 12. If the user rolls 1,4,6,or 12, he gets a point and 
+Dice values can be 1 to 6. If the user rolls 1,4,6 he gets a point and 
 another chance to roll 
-If the user gets a point three times in a row, Tehran he gets 5 additional points. 
+If the user gets a point three times in a row, then he gets 5 additional points. 
 Each user can play a maximum of 50 times. 
 The user that takes max point wins. 
 
-2. Same game as above. Add an additional condition to subtract one point when the user rolls 0. 
-If the user rolls 9, then he will miss a turn. 
+2. Same game as above. Add an additional condition to subtract one point when the user rolls 5. 
+If the user rolls 2, then he will miss a turn. 
 
 3. Calculate the angle between the big hand and small hand in a clock.
  The user will input the numbers that the hands are pointing to. 
