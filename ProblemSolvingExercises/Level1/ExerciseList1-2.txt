@@ -10,12 +10,13 @@ Calculate if the user is going to elementary school, middle school, highschool o
 (hint - use if/elif)
 
 7.Program to find out how many Kg of onion or tomato we can buy. One Kg of Onion is 20rs, Tomato is 10.5rs.  Input is the budget. 
-Same as above, but the price of Onion is different based on the city. Chennai - Rs30, Trichy Rs27, Madurai Rs 34. Input is budget and city.
-Same as above, but add 3% of the budget for petrol expenses. 
+7.1 Same as above, but the price of Onion is different based on the city. Chennai - Rs30, Trichy Rs27, Madurai Rs 34. Input is budget and city.
+7.2 Same as above, but add 3% of the budget for petrol expenses. 
 
 8.Calculate wedding expenses. Cost for lunch per person is Rs200. Cost for Breakfast per
  person is half of lunch cost. Cost of the hall is Rs 200 per person.
   Decoration is 50% of Hall cost. Parking is 10% of the Hall cost. 
+  Decide what should be the input and calculate the cost.
   
 9.Start with the above. The total cost is split equally by bride and groom.
  Bride has saved Rs50000. Determine if the bride has to take a loan or not. 
