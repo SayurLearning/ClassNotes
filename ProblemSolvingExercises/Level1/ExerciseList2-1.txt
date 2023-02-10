@@ -1,0 +1,19 @@
+This list of exercises covers basic data types, input/output , basic arithmetic and if/then else
+Each answer should be in a separate file
+The problem statement should be repeated at the top of the program
+Each line should have a comment
+
+1. Get the marks for 10th stundet's math paper from 5 different exams. Calculate the average values. 
+Calcualte if the student got A grade (avg > 90) or B grade (avg > 80) or C grade (avg > 70) or fail.
+
+2. Same as above. Do the grade avg for all the students in one class. Also, calculate the class average.
+
+3. Same as above. Do it for all the 10th classes in a school. Calcualte the school average.
+
+4. Calcualte the salary of the phone salesman for a month. His monthly salary is Rs10000. If he sells a phone for 
+Rs 15000 or more, he gets Rs1000 commission per phone. If sells a phone ofr Rs40000 or more he gets Rs2000 in commision.
+
+5. Same as above. Calculate his annual salary. He gets a bonus of Rs 5000 at the end of the year,
+ if he sells 20 phones or more in a year.
+
+
