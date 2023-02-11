@@ -11,7 +11,7 @@ Calcualte if the student got A grade (avg > 90) or B grade (avg > 80) or C grade
 3. Same as above. Do it for all the 10th classes in a school. Calcualte the school average.
 
 4. Calcualte the salary of the phone salesman for a month. His monthly salary is Rs10000. If he sells a phone for 
-Rs 15000 or more, he gets Rs1000 commission per phone. If sells a phone ofr Rs40000 or more he gets Rs2000 in commision.
+Rs 15000 or more, he gets Rs1000 commission per phone. If sells a phone for Rs40000 or more, he gets Rs2000 per phone in commision.
 
 5. Same as above. Calculate his annual salary. He gets a bonus of Rs 5000 at the end of the year,
  if he sells 20 phones or more in a year.
