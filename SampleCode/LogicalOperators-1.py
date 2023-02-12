@@ -15,7 +15,6 @@ passmark = 35
 #pass condition
 #Condition - comparing two things
 
- tamilMark >= 70
 
 
 if (( tamilMark >= 85 and englishMark >= 65 ) or (tamilMark >= 65 and englishMark >= 85 )):
