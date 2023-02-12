@@ -18,8 +18,6 @@ the inventory (the dictionary). You should print in the following format.
 
  Write your function to do the printing.
  
- 
-
 3. Same as above. You also need list all the sales by customer in a day and  print what is the
 max amount of sale.  
 
