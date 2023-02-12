@@ -21,9 +21,7 @@ passmark = 35
 if (( tamilMark >= 85 and englishMark >= 65 ) or (tamilMark >= 65 and englishMark >= 85 )):
     print("First class")
 
-if ((  tamilMark >= 70 and   tamilmark <= 90  
-
-and tamilMark <= 90) and (englishMark >=50 and englishMark <=70)) :
+if ((  tamilMark >= 70 and tamilMark <= 90) and (englishMark >=50 and englishMark <=70)) :
     print ("First class")
 
 if( ( (tamilMark >= 95) or (englishMark >= 95) ) or  
