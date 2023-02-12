@@ -16,7 +16,7 @@ passmark = 35
 #Condition - comparing two things
 
 
-
+#various ways of writing code 
 if (( tamilMark >= 85 and englishMark >= 65 ) or (tamilMark >= 65 and englishMark >= 85 )):
     print("First class")
 
@@ -31,7 +31,7 @@ else:
     print("fail")
 
 '''
-#writing code in many if statements. Nested if is can be done using And condition.
+# writing code in many if statements. Nested if is can be done using And condition.
 if(tamilMark >= passmark):
     #begin if Tamil mark is pass
     if(englishMark >= passmark):
