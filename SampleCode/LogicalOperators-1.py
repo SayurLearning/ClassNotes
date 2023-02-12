@@ -34,6 +34,7 @@ else:
     print("fail")
 
 '''
+#writing code in many if statements. Nested if is can be done using And condition.
 if(tamilMark >= passmark):
     #begin if Tamil mark is pass
     if(englishMark >= passmark):
