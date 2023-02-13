@@ -9,5 +9,5 @@
 2. We have 3 colleges - each college has a different cut off mark for engineering college admission.
 Get the 5 marks from the student. Calculate the average. Find out which colleges the student is eligible to get admission.
 For eg, College 1 cut off - 93%, College 2 - 89% and college 3 - 97%. If the student's avg is, 94%, the student is eligible
- for admission in College 1 and College 3.
- 
+ for admission in College 1 and College 2.
+
