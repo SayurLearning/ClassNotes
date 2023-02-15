@@ -33,3 +33,27 @@ chars, all the chars between the number and special char are ignored.
 Eg - "We Attack at Dawn" is input. Output should be 'atwcdekn'
 Do not use dictionaries. Try to use string built in functions.
 
+6. Encoding problem - Input is a message and  a pattern. Both strings. Output is the message written in the form
+of the pattern. 
+Eg -  Message - "I Love India".
+      Pattern - "*** **** ** **********     *****"
+      Output  - "ILo veIn di aILoveIndi     aILov"
+
+     Note how you replace each * in the pattern with the letter in the message, the space in the message doesn't
+     matter, but the space(s) in the pattern matters.
+7. Same as above, but the pattern can be multi line.
+Eg 
+Message - "I Love India".
+Pattern - 
+'This is 
+          a 
+             Test'
+Output  -
+'ILov eI 
+          n
+             diaI'
+
+
+
+
+
