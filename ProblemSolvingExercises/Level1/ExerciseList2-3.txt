@@ -1,0 +1,18 @@
+1.  You are going to a shop to buy candies and chochlates. 100g of candy is Rs50. 100g of chochlate is 
+ Rs150. You buy 100g of candy first.
+Then if you have more money left, you buy 100g of chochlate. You check again and buy  candies and then buy chochlates
+You buy as much candy or chochlate as you can with the money you have.
+Input is your budget, output is the amount of candy and/or chochlate you bought.
+
+2. You are going to a movie with your friends. Each of you buy a ticket and buy a snack or a drink.
+Each ticket is Rs200. Popcorn small is Rs 50, medium is Rs 100 and Large is Rs 150. Coke is Rs 80.
+What is the total cost for each person and total cost for all of your friends. 
+ 
+
+2.1. Same as above. Find which friend spent the most money. 
+
+2.2. Same as above. Find out how many friends liked and how many friends disliked the movie. 
+
+2.3  Same as above problem. Find the average of cost per person. The theatre makes 20% profit on the 
+avg from each person going to the movie. What is the profit of the theatre for this one show you attended?
+Hint - to find out the profit, you need to get one additional input from your user.
