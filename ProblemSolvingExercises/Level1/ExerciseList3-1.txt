@@ -1,24 +1,16 @@
-String manipulation exercises. Use builtin functions as needed.
 
-1. Print the level of the password security and if the password is acceptable
-    Weak - only alphabets or only numbers or only special chars
-    Ok - at least one alphabet, one number and one special char
-    strong - at least three alphabets, two numbers and one special char
-    Very strong - same as strong, but at least 16 count
+String exercises
 
-    All passwords must be at least 8 chars long. You can use RegEx if you want.
+In the input, find the first A and last A, print all the letters between these two A.
+2. Input is two strings. Find all the chars that are in both strings. 
+3. Input is a number. Output is the number in English, Eg 134 output OneThreeFour
 
-2. Check if the username and password is correct. 
-     Username should contain the char @  and '.com' or '.edu' or '.tech' or 'org' at the end.
-     passward is the first, third, and last 3 letters of the username followed by the first three letters of the 
-     name of the company mentioned in the username, followed by any 3 numbers.
-     eg username : myname@sayur.com. password - mnamesay123 
-
-3. Write an app for the fruit vendor. Fruit vendor has a list of fruits (apple, Orange, banana etc).
-When the customer comes in, vendor asks "What do you want to buy?" .
-The customer can say "I want apple", or "Apple" or "three apple" or something like that.
-Your program will find out what fruit the customer is asking. 
-Your program will also find, if the customer already asked for the quantity of the fruit (one apple or 5 orange etc).
-Print the quantity if the customer says the quantity. If not, ask him how much he wants.
-Hint : Use string manipulation and lists. https://www.w3schools.com/python/python_ref_string.asp 
-You can limit the quantity to single digit number.
+#newly added problems
+4. Input a string. 
+    Print all the chars that are in Odd index - eg intput - abcd, output bd
+    Print all the chars in the even index in reverse order - eg input abcd output ca
+    
+5. Input a string. Print first and last char, add a comma, then print second and last but first char and so on.
+   eg - input ABCD1234 , output - A4,B3,C2,D1. 
+   Hint - use only one for loop. 
+6. Input two strings. Output is both strings merged . Eg - input1 = ABCD, input 2 = 1234. Output = A1B2C3D4 

@@ -1,0 +1,20 @@
+Arrays exercises
+
+1. Students are entering a class one by one. Get their names as they enter. At the end of the class, Students
+leave the class in reverse order (the student who came last leaves first). Call the student using their name and ask about 
+their mark in the class. Calculate the class average.
+
+2.Create a list of food items for a cafe. Create another list with price of those items.
+ Create another list with the supply of those items (how many items are available in the cafe) in the starting of the day
+  Calculate the sales for the cafe. Cafe can have a maximum of 10 transactions.
+  For any item, if the supply is < 10, display the max num
+
+3.Write an app for the fruit shop. The owner keeps track of the list of fruits and their supply. 
+  On Monday, he has full supply of all the fruits. End of monday, he sells 50% apples, 50% of oranges, but only 10 (number) each of other fruits
+  By Tuesday end, all apples are sold out, 75% of all oranges are sold out, and only 30 more of each of  other fruits.
+  By Wednesday, all fruits are sold out.
+  Apple costs Rs 25 per apple, Orange cost Rs 15 per orange, all the other fruits Rs 10 each.
+
+  Print the sales info at the end of each day.
+4. Ask your friend all the movies s/he watched recently. List all the movies that you both have watched,
+   only the movies you watched, and only the movies your friend  watched.
