@@ -1,0 +1,27 @@
+Topics:
+    Input statements
+    Print statement - how to format a print statement
+    For loop - Differenet usages of range
+    While loop
+    When to use break and continue in a loop
+    String  built in functions.
+
+1. You are going to get marks from five tests from the student. Get one mark at a time. If the student's
+ input mark is 35 or less, you will print "Fail" and stop getting marks.
+ Print the number of marks you got from the student and the total of those marks.
+
+2. You are going to get marks from 10 tests from the student. Get one mark at a time. 
+Add all marks and print the average. But, do not add if the mark is less than 35. 
+Write your solution using Continue statement.
+ 
+3. Input is a string. Find the first A and the last A. For every char in between these two A, print the char
+and add 'A' to that. 
+For eg - input - 12AbcdA123Axyz
+output 
+bA
+cA
+dA
+AA
+1A
+2A
+3A
