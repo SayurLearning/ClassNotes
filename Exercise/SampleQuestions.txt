@@ -30,3 +30,4 @@ Check for conditions where the input has only one A or no A at all.
 
 4. Write about your laptop configuration and any details you want to share
 5. Write about your mobile phone configuration and any details you want to share.
+6. Challenge Question - Google and learn. What is PATH variable in your operating system? What is the purpose. Write about it in your own words.
