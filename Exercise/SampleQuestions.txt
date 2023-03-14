@@ -1,17 +1,18 @@
-Topics:
-    Input statements
-    Print statement - how to format a print statement
-    For loop - Differenet usages of range
-    While loop
-    When to use break and continue in a loop
-    String  built in functions.
+#Submission details
+# Create a folder - 'yourname_Test_Mar2023' in Google drive under the one you have already created and shared ('yourname_Sayur')
+# Upload each answer in a separate file.
+# Each file should have the problem statement at the top
+# code should have comments as necessary
+# Each files should also have the output of your code. Copy/paste the output from terminal to your code and then upload it.
+# You have 60 mins to finish this.
+# You can use Google as needed. 
 
 1. You are going to get marks from five tests from the student. Get one mark at a time. If the student's
  input mark is 35 or less, you will print "Fail" and stop getting marks.
- Print the number of marks you got from the student and the total of those marks.
+ Print how many marks you got from the student and the total of those marks.
 
 2. You are going to get marks from 10 tests from the student. Get one mark at a time. 
-Add all marks and print the average. But, do not add if the mark is less than 35. 
+Add all marks and print the average. But, do not add if the mark is less than 35. Round up the marks (if a mark is 55.6, it is 56, if it is 55.3, it is 55)
 Write your solution using Continue statement.
  
 3. Input is a string. Find the first A and the last A. For every char in between these two A, print the char
@@ -25,3 +26,8 @@ AA
 1A
 2A
 3A
+Check for conditions where the input has only one A or no A at all.
+
+4. Write about your laptop configuration and any details you want to share
+5. Write about your mobile phone configuration and any details you want to share.
+6. Challenge Question - Google and learn. What is PATH variable in your operating system? What is the purpose. Write about it in your own words.

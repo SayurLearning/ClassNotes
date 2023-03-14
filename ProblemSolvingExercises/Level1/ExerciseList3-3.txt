@@ -24,3 +24,13 @@ Your program will also find, if the customer already asked for the quantity of t
 Print the quantity if the customer says the quantity. If not, ask him how much he wants.
 Hint : Use string manipulation and lists. https://www.w3schools.com/python/python_ref_string.asp 
 You can limit the quantity to single digit number.
+
+4. Encoding problem - Input is a message and  a pattern. Both strings. Output is the message written in the form
+of the pattern. 
+Eg -  Message - "I Love India".
+      Pattern - "*** **** ** **********     *****"
+      Output  - "ILo veIn di aILoveIndi     aILov"
+
+     Note how you replace each * in the pattern with the letter in the message, the space in the message doesn't
+     matter, but the space(s) in the pattern matters.
+     
