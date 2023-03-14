@@ -5,7 +5,7 @@
 # code should have comments as necessary
 # Each files should also have the output of your code. Copy/paste the output from terminal to your code and then upload it.
 # You have 60 mins to finish this.
-# You can use Google as needed
+# You can use Google as needed.
  
 1. You are going to get marks from five tests from the student. Get one mark at a time. If the student's
  input mark is 35 or less, you will print "Fail" and stop getting marks.
