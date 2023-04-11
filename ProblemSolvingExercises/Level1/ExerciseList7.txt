@@ -1,0 +1,8 @@
+1. This is an online survey. Ask college students which movie they saw recently. Print the movie that most students
+watched.
+
+2. Same as above. Along with the movie name, also add what genre the movie is (comedy, thriller or action movie )
+When you print the most watched movie, also print the genre.
+
+3. In the online survey, ask the college students who their favorite actor/actress is. Also find the movie that
+ they liked. At the end of the survey, list all actors with at least 3 fans and their movies.
