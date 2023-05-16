@@ -22,13 +22,15 @@ def divideAFromB(a, b):
 
 #Get 5 marks from student and find the total
 total = 0
-for i in 5:
-    mark = (int) input("Enter mark ", i) #correct te syntax as needed
+for i in range(0,5):
+   # mark = (int) input("Enter mark ", i) #correct te syntax as needed
+   total = addTwoNumbers(total, i)
     #FillinMissingCode
 
 
 #Call divide function to get the average
 #FillinMissingCode
 
+avg = divideAFromB(total, i)
 print("The avg mark is ", avg)
 

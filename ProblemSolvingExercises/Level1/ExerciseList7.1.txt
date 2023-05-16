@@ -1,0 +1,4 @@
+1. Write an app for maintaining a cookbook.
+2. Write an app for a BMW car sales and service center
+3. Write an app maintaining all the shops in a mall.
+
