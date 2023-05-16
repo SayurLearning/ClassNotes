@@ -24,13 +24,12 @@ def divideAFromB(a, b):
 total = 0
 for i in range(0,5):
    # mark = (int) input("Enter mark ", i) #correct te syntax as needed
-   total = addTwoNumbers(total, i)
     #FillinMissingCode
 
 
 #Call divide function to get the average
 #FillinMissingCode
 
-avg = divideAFromB(total, i)
+
 print("The avg mark is ", avg)
 
