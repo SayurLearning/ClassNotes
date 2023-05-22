@@ -1,5 +1,5 @@
 ############## Problem  1 #################### 
-#Ask first friend the colors they list. Save it in a list
+#Ask first friend the colors they like. Save it in a list
 #Ask another friend the same question. If the color is in the first friend's list, 
 #Print "You both like "name of the color"
 #If it is not in the first friend's list, Save it another list.
