@@ -1,0 +1,31 @@
+1.Spiderman wants to go from Madurai to Chennai. As you all know, he can jump from a tall 
+building to another tall building. He likes to post a picture of the building he is jumping 
+to on Instagram every time he jumps. He needs to make sure he has enough energy to jump 
+before every jump. He drinks coffee to get more energy.
+Spiderman can jump only if the distance between two tall buildings is one km or less.
+ If it is more than one km, he has to take a bus from the nearby bus station.
+  He stops every 10km to see if there is a tall building.
+
+Write a flowchart to show how spiderman can go from Madurai to Chennai.
+
+2.Get a number from the user. Divide it by 3 and print the result. 
+Divide again by 3 and print the result. Keep dividing until the number is less than 3. 
+Print the number of times the number was divided. 
+
+3.Get two names. If the length of the two names is not equal, add 'a' at the end of the short name
+    until the length is equal. 
+    Eg - input - cat, arrow. (legnth is not equal) 
+    Output - cataa, arrow (length is equal by adding a)
+
+4.Encoding problem - Input is a message and  a pattern. Both strings. Output is the message written in the form
+of the pattern. 
+Eg -  Message - "I Love India".
+      Pattern - "*** **** ** **********     *****"
+      Output  - "ILo veIn di aILoveIndi     aILov"
+
+     Note how you replace each * in the pattern with the letter in the message, the space in the message doesn't
+     matter, but the space(s) in the pattern matters.
+5. Input is a sentence. Find the number of times each word appears.
+
+
+
