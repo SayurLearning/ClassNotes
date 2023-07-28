@@ -1,4 +1,11 @@
+# colorama_demo.py
+from colorama import init, Fore, Back, Style
 
+# Initializes Colorama
+init(autoreset=True)
+
+print(Style.BRIGHT + Back.YELLOW + Fore.RED + "CHEESY")
+print(Fore.GREEN + "MY")
 
 Flowers = {
     'lotus':

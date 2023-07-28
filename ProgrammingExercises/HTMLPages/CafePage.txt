@@ -1,0 +1,13 @@
+Use Bootstrap and JS
+Develop a Web page for a cafe
+
+Have a tab control with tab for Menu, Location and Contact us
+Display Menu of items in a table format. 
+toggle the current supply. Show it when the user wants to see it.
+
+Show a form where the user can enter what item they want to buy and how many
+As they add each item, calculate the total and display. 
+
+
+
+

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Dynamic Tabs</h2>
+  <ul class="nav nav-tabs">    
+    <li class="active"><a href="#menu1">Menu </a></li>
+    <li><a href="#menu2">Location</a></li>
+    <li><a href="#menu3">Contact Us</a></li>
+  </ul>
+
+ 
+
+  <div class="tab-content">
+    <div id="menu1" class="tab-pane fade in active">
+        <div class="table-responsive">          
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Item</th>
+                  <th>Price(Rs)</th>
+                  
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Idli</td>
+                  <td>50</td>
+                  
+                  
+                </tr>
+              </tbody>
+            </table>
+         
+          </div>
+        </div>
+    <div id="menu2" class="tab-pane fade">
+      <h3>Location</h3>
+
+    </div>
+    <div id="menu3" class="tab-pane fade">
+      <h3>Contact Us</h3>
+      <p>My menu b illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    </div>
+  </div>
+</div>
+<div> 
+    <p>
+        THis is after tab
+    </p>
+  </div>
+
+<script>
+$(document).ready(function(){
+  $(".nav-tabs a").click(function(){
+    $(this).tab('show');
+   
+  });
+});
+</script>
+
+</body>
+</html>

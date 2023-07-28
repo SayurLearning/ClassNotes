@@ -1,0 +1,18 @@
+1. https://bowlingfix.com/bowling-scoring-explained/ 
+https://www.bowlinggenius.com/
+Write code for 2 player bowling game.
+
+
+2. Dice game :
+ Dice values 1 to 12
+ Game can be played by 2 players.
+ The user who gets 100 or more points first win. 
+ Points for each value - 1 to 5 - 2 points, 6 to 9 - 3 points and 4 for the rest.
+ Additional conditions 
+ User can start only when he rolls 3. But, once he rolls 3, the values from previous 3 rolls are counted
+ towrds the game. But, if he rolls 12, all the previous values are erased.
+ After the user starts, points are added based on the current rolled number. 
+ For  5, 7 and 11 along with the points for these values, the previous roll's value is also added.
+ For 2,8,10, the points for current rolled number is added, but the previous two roll values are subracted.
+ 
+ 
