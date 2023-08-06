@@ -1,7 +1,7 @@
 
 1.Get the marks for 3 subjects from the students.
 
- If the mark is greater than 75 in any two subjects, then print Pass and also print the subject where the marks in > 75
+ If the mark is greater than 75 in any two subjects, then print Pass and also print the subject where the marks is > 75
  If the marks is greater than 60 in all three subjects, then print pass.
   If the student scored in 100 in any one subject, it is pass.  Print which subject the student scored 100.
  if the above conditions  not met, print fail.
