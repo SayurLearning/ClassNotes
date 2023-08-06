@@ -2,11 +2,9 @@
 #Google and find the tax slabs for income tax for India. Write a program to calculate the income tax for an 
 #individual. Input is Salary. Optional input - any deductions.
 
-############ Problem 2 ####
-#Calculate the BMI and if the person is underweihgt/normal/overweight/obese
-#Google how to calculate BMI and decide on the input.
 
-########## Problem 3 ##########
+
+########## Problem 2 ##########
 ##buy choc and cake
 # one choc is Rs 200
 # one cake is 150
@@ -15,7 +13,7 @@
 
 #find how many choc and cake the user can buy.
 
-############## Problem 4 ##############
+############## Problem 3 ##############
 #Calculate the Grade for a student, using 3 marks.
 # The student has 100 marks in any one subject, Grade is A.
 # if the student has 90 or above in any one subject  Grade is B
